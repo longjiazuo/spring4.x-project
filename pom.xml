@@ -13,6 +13,7 @@
 		<module>spring4.x-aop</module>
 		<module>spring4.x-scope</module>
     <module>spring4.x-el</module>
+    <module>spring4.x-prepost</module>
   </modules>
 	<properties>
 		<java.version>1.7</java.version>
