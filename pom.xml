@@ -19,6 +19,7 @@
     <module>spring4.x-aware</module>
     <module>spring4.x-taskExecutor</module>
     <module>spring4.x-schedule</module>
+    <module>spring4.x-conditional</module>
   </modules>
 	<properties>
 		<java.version>1.7</java.version>
