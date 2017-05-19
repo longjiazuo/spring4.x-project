@@ -10,6 +10,7 @@
 	<modules>
 		<module>spring4.x-di</module>
     <module>spring4.x-javaConfig</module>
+    <module>spring4.x-aop</module>
   </modules>
 	<properties>
 		<java.version>1.7</java.version>
