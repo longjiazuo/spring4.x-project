@@ -8,9 +8,9 @@
 		<artifactId>spring4.x-learning</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>spring4.x-profile</artifactId>
-	<name>spring4.x-profile</name>
-	<url>http://blog.longjaizuo.com</url>
+	<artifactId>spring4.x-event</artifactId>
+	<name>spring4.x-event</name>
+	<url>http://blog.longjiazuo.com/</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
