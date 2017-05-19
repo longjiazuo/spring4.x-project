@@ -1,5 +1,5 @@
 # spring4.x-learning
-spring4.x学习整理总结样例,在每篇文章后面有对应源代码地址链接。<br>
+spring4.x整理总结样例,在每篇文章后面有对应源代码地址链接。<br>
 
 #### Spring4.x系列教程<br>
 项目工程：<a href="https://github.com/longjiazuo/spring4.x-learning/tree/master/spring4.x-di" target="_blank">https://github.com/longjiazuo/spring4.x-learning <br>
