@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>spring4.x-learning</groupId>
 	<artifactId>spring4.x-learning</artifactId>
@@ -12,17 +13,17 @@
 		<module>spring4.x-javaConfig</module>
 		<module>spring4.x-aop</module>
 		<module>spring4.x-scope</module>
-    <module>spring4.x-el</module>
-    <module>spring4.x-prepost</module>
-    <module>spring4.x-profile</module>
-    <module>spring4.x-event</module>
-    <module>spring4.x-aware</module>
-    <module>spring4.x-taskExecutor</module>
-    <module>spring4.x-schedule</module>
-    <module>spring4.x-conditional</module>
-    <module>spring4.x-annotation</module>
-    <module>spring4.x-test</module>
-  </modules>
+		<module>spring4.x-el</module>
+		<module>spring4.x-prepost</module>
+		<module>spring4.x-profile</module>
+		<module>spring4.x-event</module>
+		<module>spring4.x-aware</module>
+		<module>spring4.x-taskExecutor</module>
+		<module>spring4.x-schedule</module>
+		<module>spring4.x-conditional</module>
+		<module>spring4.x-annotation</module>
+		<module>spring4.x-test</module>
+	</modules>
 	<properties>
 		<java.version>1.7</java.version>
 		<spring-framework.version>4.1.5.RELEASE</spring-framework.version>
