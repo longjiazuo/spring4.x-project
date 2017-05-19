@@ -17,6 +17,7 @@
     <module>spring4.x-profile</module>
     <module>spring4.x-event</module>
     <module>spring4.x-aware</module>
+    <module>spring4.x-taskExecutor</module>
   </modules>
 	<properties>
 		<java.version>1.7</java.version>
