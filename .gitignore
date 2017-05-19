@@ -16,3 +16,4 @@ hs_err_pid*
 /.gitignore
 /.project
 /spring4.x-schedule/
+/.externalToolBuilders/
